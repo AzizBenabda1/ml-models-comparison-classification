@@ -48,10 +48,3 @@ The dataset is carefully preprocessed to ensure the highest model efficiency, in
 
 Each model was evaluated based on multiple performance metrics to provide a complete understanding of its strengths and weaknesses.  
 The project highlights the importance of model selection and data preparation in the machine learning pipeline.
-
-## 🛠️ Setup and Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ml-models-comparison-classification.git
-   cd ml-models-comparison-classification
